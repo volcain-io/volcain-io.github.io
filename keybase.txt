@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/volcain
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://volcain-io.github.io
+  * I am volcain (https://keybase.io/volcain) on keybase.
+  * I have a public key ASDC5qG5JfsP6jn2n0iZsm3G-balKuYWLrlShaTIJtTH8go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c2e6a1b925fb0fea39f69f4899b26dc6f9b6a52ae6162eb95285a4c826d4c7f20a",
+      "host": "keybase.io",
+      "kid": "0120c2e6a1b925fb0fea39f69f4899b26dc6f9b6a52ae6162eb95285a4c826d4c7f20a",
+      "uid": "c04a92228b2b431e011e43f772e01919",
+      "username": "volcain"
+    },
+    "merkle_root": {
+      "ctime": 1542406113,
+      "hash": "d5634906814a2321e0e89a89f8fd612d853d1b60dea8eeafae31cf0caf513fa876e61e70558c93a37675e58b27faf414011a22ff2c2a4e63a9f476162384571f",
+      "hash_meta": "4a39c651d41e949ad10d83ece3c47dbe1579988f43273434b305e24dd2528aa2",
+      "seqno": 3966571
+    },
+    "service": {
+      "entropy": "SYyK3HTeb+yr4csICggeqzRk",
+      "hostname": "volcain-io.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.0"
+  },
+  "ctime": 1542406138,
+  "expire_in": 504576000,
+  "prev": "1b53d5806748d84ff83f4a1b6d13944c174c8b0ca30ae4eab02cabf364a57252",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwuahuSX7D+o59p9ImbJtxvm2pSrmFi65UoWkyCbUx/IKp3BheWxvYWTESpcCDcQgG1PVgGdI2E/4P0obbROUTBdMiwyjCuTqsCyr82SlclLEIM58xO6wt756fRRsAHQGsyaKCoKN4vOHF5TvTbkTayDQAgHCo3NpZ8RAXbxiDpNtTVXxS76BN2qaXr+kjdK6x9CjDgwwpJTWDXadQJschbGXvFwM6BrAFRw21C/EfLeUvdflj8nzQ8oYAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPHWM2+Gt5fetUcnOjR+smH5PYzEQk4p3ayhNTHm9bMxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/volcain
+
+==================================================================
